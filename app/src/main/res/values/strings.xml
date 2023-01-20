@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Texify</string>
+    <string name="texify">Texify</string>
+    <string name="txt_capture_image">Capture an image with text</string>
+    <string name="extracted_text">Extracted text</string>
+    <string name="instructions">Keep the mobile vertical\nTry to avoid unwanted text</string>
+    <string name="try_again">try again</string>
+</resources>
