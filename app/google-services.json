@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196019623781",
+    "project_id": "texify-139ee",
+    "storage_bucket": "texify-139ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196019623781:android:3b4506e5fd26e30f0eb38c",
+        "android_client_info": {
+          "package_name": "com.example.texify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196019623781-6ej90no8c85643gmqrqrvdckkkr6ec2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6aZkeyYohEUJ6jFqOaUN18DZwAv8T550"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196019623781-6ej90no8c85643gmqrqrvdckkkr6ec2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
